@@ -1,0 +1,68 @@
+const products = [
+    {
+        name: 'Product 1',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/1/200/300',
+        rating:4.5,
+        sales: true,
+    },
+    {
+        name: 'Product 2',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/2/200/300',
+        rating:4.5,
+        sales: false,
+    },
+    {
+        name: 'Product 3',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/3/200/300',
+        rating:4.5,
+        sales: true,
+    },
+    {
+        name: 'Product 4',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/4/200/300',
+        rating:4.5,
+        sales: false,
+    },
+    {
+        name: 'Product 5',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/5/200/300',
+        rating:4.5,
+        sales: true,
+    },
+    {
+        name: 'Product 6',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/6/200/300',
+        rating:4.5,
+        sales: false,
+    },
+    {
+        name: 'Product 7',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/7/200/300',
+        rating:4.5,
+        sales: true,
+    },
+    {
+        name: 'Product 8',
+        price: 19.99,
+        discount: 10,
+        image:'https://picsum.photos/id/8/200/300',
+        rating:4.5,
+        sales: false,
+    },   
+];
+
+export default products;
